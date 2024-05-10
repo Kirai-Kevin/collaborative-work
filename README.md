@@ -1,2 +1,0 @@
-# collaborative-work
-group  project
